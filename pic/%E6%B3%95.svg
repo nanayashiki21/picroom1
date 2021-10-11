@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="573" height="250" style="background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAIAAAACDbGyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDowQzg5QTQ0NDhENzgxMUUzOENGREE4QTg0RDgzRTZDNyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDowQzg5QTQ0NThENzgxMUUzOENGREE4QTg0RDgzRTZDNyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkMwOEQ1NDRGOEQ3NzExRTM4Q0ZEQThBODREODNFNkM3IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkMwOEQ1NDUwOEQ3NzExRTM4Q0ZEQThBODREODNFNkM3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+e9P33AAAACVJREFUeNpisXJ0YUACTAyoAMr/+eM7EGGRZ4FQ7BycEAZAgAEAHbEGtkoQm/wAAAAASUVORK5CYII=) #3a4144;visibility:visible">
+    <g text-rendering="optimize-speed">
+        <g fill="none" stroke="#fff">
+            <path stroke-width="3" d="M57.5 120.5a56 5 0 0 0 56 5"/>
+            <path stroke-width="2" d="M189 126c20 0 20-90 40-90"/>
+            <path stroke-width="2" d="M189 126c20 0 20-30 40-30M189 126c20 0 20 30 40 30"/>
+            <path stroke-width="2" d="M189 126c20 0 20 90 40 90"/>
+        </g>
+        <path fill="rgba(0, 0, 0, .25)" d="M51.5 98.5h20a27 27 0 0 1 27 27 27 27 0 0 1-27 27h-20a27 27 0 0 1-27-27 27 27 0 0 1 27-27z"/>
+        <path fill="#e9df98" stroke="#e9df98" d="M47.5 93.5h20a27 27 0 0 1 27 27 27 27 0 0 1-27 27h-20a27 27 0 0 1-27-27 27 27 0 0 1 27-27z" stroke-width="3"/>
+        <text text-rendering="inherit" font-size="24" dy=".8em" y="104.9" x="45.5" fill="#430">法</text>
+        <path fill="rgba(0, 0, 0, .25)" d="M129.5 116.5h53a10 10 0 0 1 10 10v8a10 10 0 0 1-10 10h-53a10 10 0 0 1-10-10v-8a10 10 0 0 1 10-10z"/>
+        <g style="cursor:pointer" stroke="gray">
+            <path fill="#fff" d="M115.5 125.5a6 6 0 1 1-12 0 6 6 0 1 1 12 0"/>
+            <path fill="none" d="M105 125.5h9"/>
+        </g>
+        <path fill="#a4c5c0" stroke="#a4c5c0" d="M125.5 111.5h53a10 10 0 0 1 10 10v8a10 10 0 0 1-10 10h-53a10 10 0 0 1-10-10v-8a10 10 0 0 1 10-10z"/>
+        <text text-rendering="inherit" font-size="16" dy=".8em" y="115.1" x="135.5" fill="#333">特征</text>
+        <path fill="none" d="M233.5 20.5h289a5 5 0 0 1 5 5v20a5 5 0 0 1-5 5h-289a5 5 0 0 1-5-5v-20a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="27.7" x="263.5" fill="#fff">规范性：法是调整人们的行为或社会关系的规范</text>
+        <path fill="#840023" d="M239 39a7 7 0 0 0 7 7h6a7 7 0 0 0 7-7v-6h-20v6z"/>
+        <path fill="#FF1200" d="M259 36a7 7 0 0 1-7 7h-6a7 7 0 0 1-7-7v-3a7 7 0 0 1 7-7h6a7 7 0 0 1 7 7v3z" opacity=".8"/>
+        <text text-rendering="geometricPrecision" x="248" y="35.5" text-anchor="middle" font-style="italic" font-size="12" fill="#fff" dy="5">1</text>
+        <path fill="none" d="M233.5 80.5h279a5 5 0 0 1 5 5v20a5 5 0 0 1-5 5h-279a5 5 0 0 1-5-5v-20a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="87.7" x="263.5" fill="#fff">国家意志性:法是由国家制定或认可的社会规范</text>
+        <path fill="#01467F" d="M239 99a7 7 0 0 0 7 7h6a7 7 0 0 0 7-7v-6h-20v6z"/>
+        <path fill="#0074FF" d="M259 96a7 7 0 0 1-7 7h-6a7 7 0 0 1-7-7v-3a7 7 0 0 1 7-7h6a7 7 0 0 1 7 7v3z" opacity=".8"/>
+        <text text-rendering="geometricPrecision" x="248" y="95.5" text-anchor="middle" font-style="italic" font-size="12" fill="#fff" dy="5">2</text>
+        <path fill="none" d="M233.5 140.5h291a5 5 0 0 1 5 5v20a5 5 0 0 1-5 5h-291a5 5 0 0 1-5-5v-20a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="147.7" x="263.5" fill="#fff">权利与义务:法是以权利和义务为内容的社会规范</text>
+        <path fill="#006300" d="M239 159a7 7 0 0 0 7 7h6a7 7 0 0 0 7-7v-6h-20v6z"/>
+        <path fill="#00AF00" d="M259 156a7 7 0 0 1-7 7h-6a7 7 0 0 1-7-7v-3a7 7 0 0 1 7-7h6a7 7 0 0 1 7 7v3z" opacity=".8"/>
+        <text text-rendering="geometricPrecision" x="248" y="155.5" text-anchor="middle" font-style="italic" font-size="12" fill="#fff" dy="5">3</text>
+        <path fill="none" d="M233.5 200.5h315a5 5 0 0 1 5 5v20a5 5 0 0 1-5 5h-315a5 5 0 0 1-5-5v-20a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="207.7" x="263.5" fill="#fff">国家强制性:法是依靠国家强制力保障实施的社会规范</text>
+        <path fill="#B25000" d="M239 219a7 7 0 0 0 7 7h6a7 7 0 0 0 7-7v-6h-20v6z"/>
+        <path fill="#FF962E" d="M259 216a7 7 0 0 1-7 7h-6a7 7 0 0 1-7-7v-3a7 7 0 0 1 7-7h6a7 7 0 0 1 7 7v3z" opacity=".8"/>
+        <text text-rendering="geometricPrecision" x="248" y="215.5" text-anchor="middle" font-style="italic" font-size="12" fill="#fff" dy="5">4</text>
+    </g>
+</svg>
