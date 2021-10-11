@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="556" height="190" style="background:#fbfbfb;visibility:visible">
+    <g text-rendering="optimize-speed">
+        <g fill="none" stroke="#7B73BF">
+            <path d="M76.5 94.5a100 1 0 0 0 100 1M247.5 95.5c20 0 20-60 40-60M247.5 95.5h40M247.5 95.5c20 0 20 60 40 60"/>
+        </g>
+        <path fill="#7B73BF" stroke="#7B73BF" d="M25.5 74.5h102a5 5 0 0 1 5 5v30a5 5 0 0 1-5 5h-102a5 5 0 0 1-5-5v-30a5 5 0 0 1 5-5z" stroke-width="3"/>
+        <text text-rendering="inherit" font-size="16" dy=".8em" y="84.1" x="44.5" fill="#fff">法律关系</text>
+        <g style="cursor:pointer" stroke="gray">
+            <path fill="#fff" d="M177.5 95.5a6 6 0 1 1-12 0 6 6 0 1 1 12 0"/>
+            <path fill="none" d="M167 95.5h9"/>
+        </g>
+        <path fill="#EFEEF6" stroke="#7B73BF" d="M181.5 82.5h63a3 3 0 0 1 3 3v20a3 3 0 0 1-3 3h-63a3 3 0 0 1-3-3v-20a3 3 0 0 1 3-3z"/>
+        <text text-rendering="inherit" font-size="14" dy=".8em" y="86.4" x="198.5">特征</text>
+        <path fill="none" d="M292.5 20.5h239a5 5 0 0 1 5 5v20a5 5 0 0 1-5 5h-239a5 5 0 0 1-5-5v-20a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="27.7" x="322.5">以法律规范为基础形成的一种社会关系</text>
+        <path fill="#840023" d="M298 39a7 7 0 0 0 7 7h6a7 7 0 0 0 7-7v-6h-20v6z"/>
+        <path fill="#FF1200" d="M318 36a7 7 0 0 1-7 7h-6a7 7 0 0 1-7-7v-3a7 7 0 0 1 7-7h6a7 7 0 0 1 7 7v3z" opacity=".8"/>
+        <text text-rendering="geometricPrecision" x="307" y="35.5" text-anchor="middle" font-style="italic" font-size="12" fill="#fff" dy="5">1</text>
+        <path fill="none" d="M292.5 80.5h216a5 5 0 0 1 5 5v20a5 5 0 0 1-5 5h-216a5 5 0 0 1-5-5v-20a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="87.7" x="322.5">是以权利和义务为内容的社会关系</text>
+        <path fill="#01467F" d="M298 99a7 7 0 0 0 7 7h6a7 7 0 0 0 7-7v-6h-20v6z"/>
+        <path fill="#0074FF" d="M318 96a7 7 0 0 1-7 7h-6a7 7 0 0 1-7-7v-3a7 7 0 0 1 7-7h6a7 7 0 0 1 7 7v3z" opacity=".8"/>
+        <text text-rendering="geometricPrecision" x="307" y="95.5" text-anchor="middle" font-style="italic" font-size="12" fill="#fff" dy="5">2</text>
+        <path fill="none" d="M292.5 140.5h180a5 5 0 0 1 5 5v20a5 5 0 0 1-5 5h-180a5 5 0 0 1-5-5v-20a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="147.7" x="322.5">是法律主体之间的社会关系</text>
+        <path fill="#006300" d="M298 159a7 7 0 0 0 7 7h6a7 7 0 0 0 7-7v-6h-20v6z"/>
+        <path fill="#00AF00" d="M318 156a7 7 0 0 1-7 7h-6a7 7 0 0 1-7-7v-3a7 7 0 0 1 7-7h6a7 7 0 0 1 7 7v3z" opacity=".8"/>
+        <text text-rendering="geometricPrecision" x="307" y="155.5" text-anchor="middle" font-style="italic" font-size="12" fill="#fff" dy="5">3</text>
+    </g>
+</svg>
