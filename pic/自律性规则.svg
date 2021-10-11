@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="718" height="477" style="background:#fbfbfb;visibility:visible">
+    <g text-rendering="optimize-speed">
+        <g fill="none" stroke="#BF7394">
+            <path d="M69.5 226.5a167 172 0 0 1 167-172"/>
+            <path d="M69.5 226.5a167 12 0 0 1 167-12M359.5 54.5c20 0 20-25 40-25M359.5 54.5c20 0 20 25 40 25M389.5 214.5c20 0 20-75 40-75"/>
+            <path d="M389.5 214.5c20 0 20-25 40-25M389.5 214.5c20 0 20 25 40 25"/>
+            <path d="M389.5 214.5c20 0 20 75 40 75M69.5 226.5a106 170 0 0 0 106 170M388.5 396.5c20 0 20-50 40-50M388.5 396.5h40M388.5 396.5c20 0 20 50 40 50"/>
+        </g>
+        <path fill="#BF7394" stroke="#BF7394" d="M25.5 209.5h88a5 5 0 0 1 5 5v24a5 5 0 0 1-5 5h-88a5 5 0 0 1-5-5v-24a5 5 0 0 1 5-5z" stroke-width="3"/>
+        <text text-rendering="inherit" font-size="10" dy=".8em" y="220" font-family="微软雅黑,Microsoft YaHei" x="44.5" fill="#fff">自律性规则</text>
+        <g style="cursor:pointer" stroke="gray">
+            <path fill="#fff" d="M237.5 54.5a6 6 0 1 1-12 0 6 6 0 1 1 12 0"/>
+            <path fill="none" d="M227 54.5h9"/>
+        </g>
+        <path fill="#F6EEF2" stroke="#BF7394" d="M241.5 43.5h115a3 3 0 0 1 3 3v16a3 3 0 0 1-3 3h-115a3 3 0 0 1-3-3v-16a3 3 0 0 1 3-3z"/>
+        <text text-rendering="inherit" font-size="10" dy=".8em" y="48" font-family="微软雅黑,Microsoft YaHei" font-weight="bold" x="258.5">由证券交易所制定</text>
+        <g style="cursor:pointer" stroke="gray">
+            <path fill="#fff" d="M237.5 214.5a6 6 0 1 1-12 0 6 6 0 1 1 12 0"/>
+            <path fill="none" d="M227 214.5h9"/>
+        </g>
+        <path fill="#F6EEF2" stroke="#BF7394" d="M241.5 203.5h145a3 3 0 0 1 3 3v16a3 3 0 0 1-3 3h-145a3 3 0 0 1-3-3v-16a3 3 0 0 1 3-3z"/>
+        <text text-rendering="inherit" font-size="10" dy=".8em" y="208" font-family="微软雅黑,Microsoft YaHei" font-weight="bold" x="258.5">由中国证券从业协会制定</text>
+        <path fill="none" d="M404.5 19.5h160a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5h-160a5 5 0 0 1-5-5v-10a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="10" dy=".8em" y="23" font-family="微软雅黑,Microsoft YaHei" x="409.5">《上海证券交易所股票上市规则》</text>
+        <path fill="none" d="M404.5 69.5h171a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5h-171a5 5 0 0 1-5-5v-10a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="10" dy=".8em" y="73" font-family="微软雅黑,Microsoft YaHei" x="409.5">《上海证券交易所债券上市规则》等</text>
+        <path fill="none" d="M434.5 129.5h160a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5h-160a5 5 0 0 1-5-5v-10a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="10" dy=".8em" y="133" font-family="微软雅黑,Microsoft YaHei" x="439.5">《中国证券业协会会员管理办法》</text>
+        <path fill="none" d="M434.5 179.5h170a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5h-170a5 5 0 0 1-5-5v-10a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="10" dy=".8em" y="183" font-family="微软雅黑,Microsoft YaHei" x="439.5">《首次公开发行股票承销业务规范》</text>
+        <path fill="none" d="M434.5 229.5h150a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5h-150a5 5 0 0 1-5-5v-10a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="10" dy=".8em" y="233" x="439.5">《证券公司直接投资业务规范》</text>
+        <path fill="none" d="M434.5 279.5h161a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5h-161a5 5 0 0 1-5-5v-10a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="10" dy=".8em" y="283" x="439.5">《证券从业人员执业行为准则》等</text>
+        <g style="cursor:pointer" stroke="gray">
+            <path fill="#fff" d="M176.5 396.5a6 6 0 1 1-12 0 6 6 0 1 1 12 0"/>
+            <path fill="none" d="M166 396.5h9"/>
+        </g>
+        <path fill="#F6EEF2" stroke="#BF7394" d="M180.5 385.5h205a3 3 0 0 1 3 3v16a3 3 0 0 1-3 3h-205a3 3 0 0 1-3-3v-16a3 3 0 0 1 3-3z"/>
+        <text text-rendering="inherit" font-size="10" dy=".8em" y="390" font-weight="bold" x="197.5">由中国证券登记结算有限责任公司制定</text>
+        <path fill="none" d="M433.5 336.5h150a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5h-150a5 5 0 0 1-5-5v-10a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="10" dy=".8em" y="340" x="438.5">《证券质押登记业务实施细则》</text>
+        <path fill="none" d="M433.5 386.5h260a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5h-260a5 5 0 0 1-5-5v-10a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="10" dy=".8em" y="390" x="438.5">《非上市公众公司股份登记存管业务实施细则（试行）》</text>
+        <path fill="none" d="M433.5 436.5h221a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5h-221a5 5 0 0 1-5-5v-10a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="10" dy=".8em" y="440" x="438.5">《约定购回式证券交易及登记结算业务办法》等</text>
+    </g>
+</svg>
