@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="638" height="256" style="background:#fbfbfb;visibility:visible">
+    <g text-rendering="optimize-speed">
+        <g fill="none" stroke="#73BF76">
+            <path d="M84 97.5a182.5 64 0 0 1 182.5-64M84 97.5a182.5 64 0 0 0 182.5 64M364.5 161.5c20 0 20-60 40-60M364.5 161.5h40M364.5 161.5c20 0 20 60 40 60"/>
+        </g>
+        <path fill="#73BF76" stroke="#73BF76" d="M24.5 77.5h119a5 5 0 0 1 5 5v30a5 5 0 0 1-5 5h-119a5 5 0 0 1-5-5v-30a5 5 0 0 1 5-5z" stroke-width="3"/>
+        <text text-rendering="inherit" font-size="16" dy=".8em" y="87.1" x="43.5" fill="#fff">规范性文件</text>
+        <path fill="#EEF6EE" stroke="#73BF76" d="M271.5 20.5h342a3 3 0 0 1 3 3v20a3 3 0 0 1-3 3h-342a3 3 0 0 1-3-3v-20a3 3 0 0 1 3-3z"/>
+        <text text-rendering="inherit" font-size="14" dy=".8em" y="24.4" font-weight="bold" x="288.5">由有关部门或具有行政管理职能的机构制定并颁布</text>
+        <g style="cursor:pointer" stroke="gray">
+            <path fill="#fff" d="M267.5 161.5a6 6 0 1 1-12 0 6 6 0 1 1 12 0"/>
+            <path fill="none" d="M257 161.5h9"/>
+        </g>
+        <path fill="#EEF6EE" stroke="#73BF76" d="M271.5 148.5h90a3 3 0 0 1 3 3v20a3 3 0 0 1-3 3h-90a3 3 0 0 1-3-3v-20a3 3 0 0 1 3-3z"/>
+        <text text-rendering="inherit" font-size="14" dy=".8em" y="152.4" x="288.5">主要法规</text>
+        <path fill="none" d="M409.5 86.5h179a5 5 0 0 1 5 5v20a5 5 0 0 1-5 5h-179a5 5 0 0 1-5-5v-20a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="93.7" x="439.5">《证券公司内部控制指引》</text>
+        <path fill="#840023" d="M415 105a7 7 0 0 0 7 7h6a7 7 0 0 0 7-7v-6h-20v6z"/>
+        <path fill="#FF1200" d="M435 102a7 7 0 0 1-7 7h-6a7 7 0 0 1-7-7v-3a7 7 0 0 1 7-7h6a7 7 0 0 1 7 7v3z" opacity=".8"/>
+        <text text-rendering="geometricPrecision" x="424" y="101.5" text-anchor="middle" font-style="italic" font-size="12" fill="#fff" dy="5">1</text>
+        <path fill="none" d="M409.5 146.5h203a5 5 0 0 1 5 5v20a5 5 0 0 1-5 5h-203a5 5 0 0 1-5-5v-20a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="153.7" x="439.5">《证券公司开立客户账户规范》</text>
+        <path fill="#01467F" d="M415 165a7 7 0 0 0 7 7h6a7 7 0 0 0 7-7v-6h-20v6z"/>
+        <path fill="#0074FF" d="M435 162a7 7 0 0 1-7 7h-6a7 7 0 0 1-7-7v-3a7 7 0 0 1 7-7h6a7 7 0 0 1 7 7v3z" opacity=".8"/>
+        <text text-rendering="geometricPrecision" x="424" y="161.5" text-anchor="middle" font-style="italic" font-size="12" fill="#fff" dy="5">2</text>
+        <path fill="none" d="M409.5 206.5h168a5 5 0 0 1 5 5v20a5 5 0 0 1-5 5h-168a5 5 0 0 1-5-5v-20a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="213.7" x="439.5">《证券公司治理准则》等</text>
+        <path fill="#006300" d="M415 225a7 7 0 0 0 7 7h6a7 7 0 0 0 7-7v-6h-20v6z"/>
+        <path fill="#00AF00" d="M435 222a7 7 0 0 1-7 7h-6a7 7 0 0 1-7-7v-3a7 7 0 0 1 7-7h6a7 7 0 0 1 7 7v3z" opacity=".8"/>
+        <text text-rendering="geometricPrecision" x="424" y="221.5" text-anchor="middle" font-style="italic" font-size="12" fill="#fff" dy="5">3</text>
+    </g>
+</svg>
