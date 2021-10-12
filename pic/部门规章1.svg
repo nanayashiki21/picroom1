@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="901" height="316" style="background:#fbfbfb;visibility:visible">
+    <g text-rendering="optimize-speed">
+        <g fill="none" stroke="#73A1BF">
+            <path d="M76 112.5a174.5 79 0 0 1 174.5-79M76 112.5a174.5 79 0 0 0 174.5 79M348.5 191.5h40M506.5 191.5c20 0 20-90 40-90"/>
+            <path d="M506.5 191.5c20 0 20-30 40-30M506.5 191.5c20 0 20 30 40 30"/>
+            <path d="M506.5 191.5c20 0 20 90 40 90"/>
+        </g>
+        <path fill="#73A1BF" stroke="#73A1BF" d="M24.5 92.5h103a5 5 0 0 1 5 5v30a5 5 0 0 1-5 5h-103a5 5 0 0 1-5-5v-30a5 5 0 0 1 5-5z" stroke-width="3"/>
+        <text text-rendering="inherit" font-size="16" dy=".8em" y="102.1" x="43.5" fill="#fff">部门规章</text>
+        <path fill="#EEF3F6" stroke="#73A1BF" d="M255.5 20.5h622a3 3 0 0 1 3 3v20a3 3 0 0 1-3 3h-622a3 3 0 0 1-3-3v-20a3 3 0 0 1 3-3z"/>
+        <text text-rendering="inherit" font-size="14" dy=".8em" y="24.4" font-weight="bold" x="272.5">由国务院各组成部门、直属特设机构、直属机构，中国证监会等国务院直属事业单位制定并颁布</text>
+        <g style="cursor:pointer" stroke="gray">
+            <path fill="#fff" d="M251.5 191.5a6 6 0 1 1-12 0 6 6 0 1 1 12 0"/>
+            <path fill="none" d="M241 191.5h9"/>
+        </g>
+        <path fill="#EEF3F6" stroke="#73A1BF" d="M255.5 178.5h90a3 3 0 0 1 3 3v20a3 3 0 0 1-3 3h-90a3 3 0 0 1-3-3v-20a3 3 0 0 1 3-3z"/>
+        <text text-rendering="inherit" font-size="14" dy=".8em" y="182.4" x="272.5">主要法规</text>
+        <g style="cursor:pointer" stroke="gray">
+            <path fill="#fff" d="M388.5 191.5a6 6 0 1 1-12 0 6 6 0 1 1 12 0"/>
+            <path fill="none" d="M378 191.5h9"/>
+        </g>
+        <path fill="none" d="M393.5 180.5h108a5 5 0 0 1 5 5v12a5 5 0 0 1-5 5h-108a5 5 0 0 1-5-5v-12a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="183.7" font-weight="bold" font-style="italic" x="398.5">《XXXXXX办法》</text>
+        <path fill="none" d="M551.5 86.5h167a5 5 0 0 1 5 5v20a5 5 0 0 1-5 5h-167a5 5 0 0 1-5-5v-20a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="93.7" x="581.5">《证券发行与承销办法》</text>
+        <path fill="#840023" d="M557 105a7 7 0 0 0 7 7h6a7 7 0 0 0 7-7v-6h-20v6z"/>
+        <path fill="#FF1200" d="M577 102a7 7 0 0 1-7 7h-6a7 7 0 0 1-7-7v-3a7 7 0 0 1 7-7h6a7 7 0 0 1 7 7v3z" opacity=".8"/>
+        <text text-rendering="geometricPrecision" x="566" y="101.5" text-anchor="middle" font-style="italic" font-size="12" fill="#fff" dy="5">1</text>
+        <path fill="none" d="M551.5 146.5h227a5 5 0 0 1 5 5v20a5 5 0 0 1-5 5h-227a5 5 0 0 1-5-5v-20a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="153.7" x="581.5">《证券期货投资者适当性管理办法》</text>
+        <path fill="#01467F" d="M557 165a7 7 0 0 0 7 7h6a7 7 0 0 0 7-7v-6h-20v6z"/>
+        <path fill="#0074FF" d="M577 162a7 7 0 0 1-7 7h-6a7 7 0 0 1-7-7v-3a7 7 0 0 1 7-7h6a7 7 0 0 1 7 7v3z" opacity=".8"/>
+        <text text-rendering="geometricPrecision" x="566" y="161.5" text-anchor="middle" font-style="italic" font-size="12" fill="#fff" dy="5">2</text>
+        <path fill="none" d="M551.5 206.5h227a5 5 0 0 1 5 5v20a5 5 0 0 1-5 5h-227a5 5 0 0 1-5-5v-20a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="213.7" x="581.5">《证券投资基金管理公司管理办法》</text>
+        <path fill="#01467F" d="M557 225a7 7 0 0 0 7 7h6a7 7 0 0 0 7-7v-6h-20v6z"/>
+        <path fill="#0074FF" d="M577 222a7 7 0 0 1-7 7h-6a7 7 0 0 1-7-7v-3a7 7 0 0 1 7-7h6a7 7 0 0 1 7 7v3z" opacity=".8"/>
+        <text text-rendering="geometricPrecision" x="566" y="221.5" text-anchor="middle" font-style="italic" font-size="12" fill="#fff" dy="5">2</text>
+        <path fill="none" d="M551.5 266.5h227a5 5 0 0 1 5 5v20a5 5 0 0 1-5 5h-227a5 5 0 0 1-5-5v-20a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="273.7" x="581.5">《证券公司风险控制指标管理办法》</text>
+        <path fill="#B25000" d="M557 285a7 7 0 0 0 7 7h6a7 7 0 0 0 7-7v-6h-20v6z"/>
+        <path fill="#FF962E" d="M577 282a7 7 0 0 1-7 7h-6a7 7 0 0 1-7-7v-3a7 7 0 0 1 7-7h6a7 7 0 0 1 7 7v3z" opacity=".8"/>
+        <text text-rendering="geometricPrecision" x="566" y="281.5" text-anchor="middle" font-style="italic" font-size="12" fill="#fff" dy="5">4</text>
+    </g>
+</svg>
