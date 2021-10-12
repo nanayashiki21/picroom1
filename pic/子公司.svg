@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="518" height="326" style="background:#fbfbfb;visibility:visible">
+    <g text-rendering="optimize-speed">
+        <g fill="none" stroke="#73BF76">
+            <path d="M68.5 175.5a98 142 0 0 1 98-142"/>
+            <path d="M68.5 175.5a100 74 0 0 1 100-74"/>
+            <path d="M68.5 175.5a103 10 0 0 1 103-10M68.5 175.5a106 54 0 0 0 106 54"/>
+            <path d="M68.5 175.5a107 118 0 0 0 107 118"/>
+        </g>
+        <path fill="#73BF76" stroke="#73BF76" d="M25.5 155.5h86a5 5 0 0 1 5 5v30a5 5 0 0 1-5 5h-86a5 5 0 0 1-5-5v-30a5 5 0 0 1 5-5z" stroke-width="3"/>
+        <text text-rendering="inherit" font-size="16" dy=".8em" y="165.1" x="44.5" fill="#fff">子公司</text>
+        <path fill="#EEF6EE" stroke="#73BF76" d="M171.5 20.5h314a3 3 0 0 1 3 3v20a3 3 0 0 1-3 3h-314a3 3 0 0 1-3-3v-20a3 3 0 0 1 3-3z"/>
+        <text text-rendering="inherit" font-size="14" dy=".8em" y="24.4" font-weight="bold" x="188.5">子公司具有法人资格，依法独立承担民事责任</text>
+        <path fill="#EEF6EE" stroke="#73BF76" d="M173.5 88.5h244a3 3 0 0 1 3 3v20a3 3 0 0 1-3 3h-244a3 3 0 0 1-3-3v-20a3 3 0 0 1 3-3z"/>
+        <text text-rendering="inherit" font-size="14" dy=".8em" y="92.4" x="190.5">子公司以自己的名义开展经营活动</text>
+        <path fill="#EEF6EE" stroke="#73BF76" d="M176.5 152.5h188a3 3 0 0 1 3 3v20a3 3 0 0 1-3 3h-188a3 3 0 0 1-3-3v-20a3 3 0 0 1 3-3z"/>
+        <text text-rendering="inherit" font-size="14" dy=".8em" y="156.4" x="193.5">子公司有独立的组织机构</text>
+        <path fill="#EEF6EE" stroke="#73BF76" d="M179.5 216.5h245a3 3 0 0 1 3 3v20a3 3 0 0 1-3 3h-245a3 3 0 0 1-3-3v-20a3 3 0 0 1 3-3z"/>
+        <text text-rendering="inherit" font-size="14" dy=".8em" y="220.4" x="196.5">子公司有独立公司名称和公司章程</text>
+        <path fill="#EEF6EE" stroke="#73BF76" d="M180.5 280.5h315a3 3 0 0 1 3 3v20a3 3 0 0 1-3 3h-315a3 3 0 0 1-3-3v-20a3 3 0 0 1 3-3z"/>
+        <text text-rendering="inherit" font-size="14" dy=".8em" y="284.4" x="197.5">子公司有独立的财产，能自负盈亏，独立核算</text>
+    </g>
+</svg>
