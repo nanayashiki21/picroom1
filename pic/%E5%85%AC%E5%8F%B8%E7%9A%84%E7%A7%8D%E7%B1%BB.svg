@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="693" height="280" style="background:#fbfbfb;visibility:visible">
+    <g text-rendering="optimize-speed">
+        <g fill="none" stroke="#73A1BF">
+            <path d="M85.5 127.5a183 70 0 0 1 183-70M85.5 127.5a183 70 0 0 0 183 70M395.5 57.5c20 0 20-26 40-26M395.5 57.5c20 0 20 26 40 26M395.5 197.5c20 0 20-52 40-52M395.5 197.5h40M395.5 197.5c20 0 20 52 40 52"/>
+        </g>
+        <path fill="#73A1BF" stroke="#73A1BF" d="M25.5 107.5h120a5 5 0 0 1 5 5v30a5 5 0 0 1-5 5h-120a5 5 0 0 1-5-5v-30a5 5 0 0 1 5-5z" stroke-width="3"/>
+        <text text-rendering="inherit" font-size="16" dy=".8em" y="117.1" x="44.5" fill="#fff">公司的种类</text>
+        <g style="cursor:pointer" stroke="gray">
+            <path fill="#fff" d="M269.5 57.5a6 6 0 1 1-12 0 6 6 0 1 1 12 0"/>
+            <path fill="none" d="M259 57.5h9"/>
+        </g>
+        <path fill="#EEF3F6" stroke="#73A1BF" d="M273.5 44.5h119a3 3 0 0 1 3 3v20a3 3 0 0 1-3 3h-119a3 3 0 0 1-3-3v-20a3 3 0 0 1 3-3z"/>
+        <text text-rendering="inherit" font-size="14" dy=".8em" y="48.4" x="290.5">有限责任公司</text>
+        <g style="cursor:pointer" stroke="gray">
+            <path fill="#fff" d="M269.5 197.5a6 6 0 1 1-12 0 6 6 0 1 1 12 0"/>
+            <path fill="none" d="M259 197.5h9"/>
+        </g>
+        <path fill="#EEF3F6" stroke="#73A1BF" d="M273.5 184.5h119a3 3 0 0 1 3 3v20a3 3 0 0 1-3 3h-119a3 3 0 0 1-3-3v-20a3 3 0 0 1 3-3z"/>
+        <text text-rendering="inherit" font-size="14" dy=".8em" y="188.4" x="290.5">股份有限公司</text>
+        <path fill="none" d="M440.5 20.5h203a5 5 0 0 1 5 5v12a5 5 0 0 1-5 5h-203a5 5 0 0 1-5-5v-12a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="23.7" font-weight="bold" x="445.5">股东以认缴的出资额为限对公司担责</text>
+        <path fill="none" d="M440.5 72.5h179a5 5 0 0 1 5 5v12a5 5 0 0 1-5 5h-179a5 5 0 0 1-5-5v-12a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="75.7" font-weight="bold" x="445.5">公司以全部财产对公司债务担责</text>
+        <path fill="none" d="M440.5 134.5h156a5 5 0 0 1 5 5v12a5 5 0 0 1-5 5h-156a5 5 0 0 1-5-5v-12a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="137.7" font-weight="bold" x="445.5">公司全部资本分为等额股份</text>
+        <path fill="none" d="M440.5 186.5h216a5 5 0 0 1 5 5v12a5 5 0 0 1-5 5h-216a5 5 0 0 1-5-5v-12a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="189.7" font-weight="bold" x="445.5">股东以认购的股份为限对公司承担责任</text>
+        <path fill="none" d="M440.5 238.5h228a5 5 0 0 1 5 5v12a5 5 0 0 1-5 5h-228a5 5 0 0 1-5-5v-12a5 5 0 0 1 5-5z"/>
+        <text text-rendering="inherit" font-size="12" dy=".8em" y="241.7" font-weight="bold" x="445.5">公司以其全部财产对公司的债务承担责任</text>
+    </g>
+</svg>
